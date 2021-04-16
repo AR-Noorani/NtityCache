@@ -7,6 +7,7 @@
     <PackageTags>cache;distributed cache;memory cache;entity cache</PackageTags>
     <Product>Ntity Cache</Product>
     <PackageId>NtityCache</PackageId>
+    <RepositoryUrl>https://github.com/AR-Noorani/NtityCache</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
