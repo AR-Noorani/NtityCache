@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wFspdQr6ZUyULsKM4Ibx5jd/xYW2GTOlaTi/mk3dvT+HAsJ275B3HOJcM7RKveyYw+nLVh3HhIRbE3Y0+unjLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\NtityCache\\NtityCache\\NtityCache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
